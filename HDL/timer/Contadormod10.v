@@ -1,5 +1,5 @@
 module contador_0_9 (clk, enable, out, endout);
-    input clk, enable;
+    input clk , enable;
     output reg [3:0] out;
     output reg endout;
 
